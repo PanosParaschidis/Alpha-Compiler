@@ -1,0 +1,1495 @@
+magicnumber -> 1234
+arrays -> strings number userfunctions libfunctions
+Const Tables
+	Strings:
+		Index: 0, Data: Simple expressions...
+
+		Index: 1, Data: Defining functions...
+
+		Index: 2, Data: Function calling...
+
+		Index: 3, Data: Simple table calls...
+
+		Index: 4, Data: c
+		Index: 5, Data: b
+		Index: 6, Data: a
+		Index: 7, Data: a
+		Index: 8, Data: b
+		Index: 9, Data: c
+		Index: 10, Data: Table creation...
+
+		Index: 11, Data: x
+		Index: 12, Data: y
+		Index: 13, Data: Making a nice long table...
+
+		Index: 14, Data: x
+		Index: 15, Data: x
+		Index: 16, Data: x
+		Index: 17, Data: x
+		Index: 18, Data: x
+		Index: 19, Data: x
+		Index: 20, Data: 
+
+		Index: 21, Data: ----------  TotalBooleanEvaluation  -----------
+
+		Index: 22, Data: ------------ the unexpectable happened -----------
+
+		Index: 23, Data: ----------- short-circuit boolean evaluation   -------------
+
+	Numbers:
+		Index: 0, Data: 10.000000
+		Index: 1, Data: 3.000000
+		Index: 2, Data: 1.000000
+		Index: 3, Data: -1.000000
+		Index: 4, Data: 0.000000
+		Index: 5, Data: 1.000000
+		Index: 6, Data: 2.000000
+		Index: 7, Data: 2.000000
+		Index: 8, Data: 3.000000
+		Index: 9, Data: 3.000000
+		Index: 10, Data: 4.000000
+		Index: 11, Data: 5.000000
+		Index: 12, Data: 10.000000
+		Index: 13, Data: 0.000000
+		Index: 14, Data: 15.000000
+		Index: 15, Data: 1.000000
+		Index: 16, Data: -1.000000
+		Index: 17, Data: 0.000000
+		Index: 18, Data: 0.000000
+		Index: 19, Data: 3.000000
+		Index: 20, Data: 0.000000
+		Index: 21, Data: 0.000000
+		Index: 22, Data: 0.000000
+		Index: 23, Data: 0.000000
+		Index: 24, Data: 0.000000
+		Index: 25, Data: 0.000000
+		Index: 26, Data: 0.000000
+		Index: 27, Data: 0.000000
+		Index: 28, Data: 0.000000
+		Index: 29, Data: 0.000000
+		Index: 30, Data: 0.000000
+		Index: 31, Data: 0.000000
+		Index: 32, Data: 0.000000
+		Index: 33, Data: 0.000000
+		Index: 34, Data: 0.000000
+		Index: 35, Data: 0.000000
+		Index: 36, Data: 0.000000
+		Index: 37, Data: 0.000000
+	LibFuncs:
+		Index: 0, Data: print
+	UserFuncs:
+		Index: 0, Data:
+				taddress: 31,localsSize: 1, id: $def_func_0
+		Index: 1, Data:
+				taddress: 33,localsSize: 1, id: $def_func_1
+		Index: 2, Data:
+				taddress: 35,localsSize: 1, id: $def_func_2
+		Index: 3, Data:
+				taddress: 37,localsSize: 1, id: $def_func_3
+		Index: 4, Data:
+				taddress: 39,localsSize: 1, id: $def_func_4
+		Index: 5, Data:
+				taddress: 41,localsSize: 0, id: $def_func_5
+		Index: 6, Data:
+				taddress: 70,localsSize: 0, id: $def_func_6
+		Index: 7, Data:
+				taddress: 72,localsSize: 0, id: $def_func_7
+		Index: 8, Data:
+				taddress: 74,localsSize: 0, id: $def_func_8
+		Index: 9, Data:
+				taddress: 76,localsSize: 0, id: $def_func_9
+		Index: 10, Data:
+				taddress: 191,localsSize: 2, id: TotalBooleanEvaluation
+total instructions 219
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 0
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 0
+	Arg1
+		Type: 4
+		Value: 0
+	Res
+		Type: 1
+		Value: 3
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 3
+	Res
+		Type: 1
+		Value: 1
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 1
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 4
+Opcode 1
+	Arg1
+		Type: 1
+		Value: 2
+	Arg2
+		Type: 1
+		Value: 3
+	Res
+		Type: 1
+		Value: 1
+Opcode 2
+	Arg1
+		Type: 1
+		Value: 2
+	Arg2
+		Type: 1
+		Value: 3
+	Res
+		Type: 1
+		Value: 4
+Opcode 3
+	Arg1
+		Type: 1
+		Value: 1
+	Arg2
+		Type: 1
+		Value: 4
+	Res
+		Type: 1
+		Value: 10
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 10
+	Res
+		Type: 1
+		Value: 5
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 5
+	Res
+		Type: 1
+		Value: 11
+Opcode 14
+	Arg1
+		Type: 1
+		Value: 2
+	Arg2
+		Type: 1
+		Value: 3
+	Res
+		Type: 0
+		Value: 15
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 16
+	Res
+		Type: 0
+		Value: 16
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 1
+	Res
+		Type: 1
+		Value: 1
+Opcode 14
+	Arg1
+		Type: 1
+		Value: 3
+	Arg2
+		Type: 1
+		Value: 5
+	Res
+		Type: 0
+		Value: 19
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 0
+	Res
+		Type: 1
+		Value: 4
+Opcode 16
+	Res
+		Type: 0
+		Value: 20
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 1
+	Res
+		Type: 1
+		Value: 4
+Opcode 10
+	Arg1
+		Type: 1
+		Value: 1
+	Arg2
+		Type: 6
+		Value: 1
+	Res
+		Type: 0
+		Value: 24
+Opcode 10
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 6
+		Value: 1
+	Res
+		Type: 0
+		Value: 24
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 0
+	Res
+		Type: 1
+		Value: 10
+Opcode 16
+	Res
+		Type: 0
+		Value: 25
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 1
+	Res
+		Type: 1
+		Value: 10
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 10
+	Res
+		Type: 1
+		Value: 12
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 12
+	Res
+		Type: 1
+		Value: 11
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 1
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 16
+	Res
+		Type: 0
+		Value: 64
+Opcode 18
+	Res
+		Type: 8
+		Value: 0
+Opcode 16
+	Res
+		Type: 0
+		Value: 60
+Opcode 18
+	Res
+		Type: 8
+		Value: 1
+Opcode 16
+	Res
+		Type: 0
+		Value: 56
+Opcode 18
+	Res
+		Type: 8
+		Value: 2
+Opcode 16
+	Res
+		Type: 0
+		Value: 52
+Opcode 18
+	Res
+		Type: 8
+		Value: 3
+Opcode 16
+	Res
+		Type: 0
+		Value: 48
+Opcode 18
+	Res
+		Type: 8
+		Value: 4
+Opcode 16
+	Res
+		Type: 0
+		Value: 44
+Opcode 18
+	Res
+		Type: 8
+		Value: 5
+Opcode 19
+	Res
+		Type: 8
+		Value: 5
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 5
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 1
+Opcode 19
+	Res
+		Type: 8
+		Value: 4
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 4
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 1
+Opcode 19
+	Res
+		Type: 8
+		Value: 3
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 3
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 1
+Opcode 19
+	Res
+		Type: 8
+		Value: 2
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 2
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 1
+Opcode 19
+	Res
+		Type: 8
+		Value: 1
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 1
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 1
+Opcode 19
+	Res
+		Type: 8
+		Value: 0
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 0
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 1
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 2
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 16
+	Res
+		Type: 0
+		Value: 93
+Opcode 18
+	Res
+		Type: 8
+		Value: 6
+Opcode 16
+	Res
+		Type: 0
+		Value: 89
+Opcode 18
+	Res
+		Type: 8
+		Value: 7
+Opcode 16
+	Res
+		Type: 0
+		Value: 85
+Opcode 18
+	Res
+		Type: 8
+		Value: 8
+Opcode 16
+	Res
+		Type: 0
+		Value: 81
+Opcode 18
+	Res
+		Type: 8
+		Value: 9
+Opcode 0
+	Arg1
+		Type: 4
+		Value: 1
+	Res
+		Type: 10
+		Value: 0
+Opcode 16
+	Res
+		Type: 0
+		Value: 79
+Opcode 19
+	Res
+		Type: 8
+		Value: 9
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 9
+	Res
+		Type: 10
+		Value: 0
+Opcode 16
+	Res
+		Type: 0
+		Value: 83
+Opcode 19
+	Res
+		Type: 8
+		Value: 8
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 8
+	Res
+		Type: 10
+		Value: 0
+Opcode 16
+	Res
+		Type: 0
+		Value: 87
+Opcode 19
+	Res
+		Type: 8
+		Value: 7
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 7
+	Res
+		Type: 10
+		Value: 0
+Opcode 16
+	Res
+		Type: 0
+		Value: 91
+Opcode 19
+	Res
+		Type: 8
+		Value: 6
+Opcode 16
+	Res
+		Type: 0
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 8
+		Value: 6
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 1
+Opcode 17
+	Arg1
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 17
+	Arg1
+		Type: 1
+		Value: 1
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 4
+Opcode 17
+	Arg1
+		Type: 1
+		Value: 4
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 10
+Opcode 17
+	Arg1
+		Type: 1
+		Value: 10
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 11
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 11
+	Res
+		Type: 1
+		Value: 21
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 21
+	Res
+		Type: 1
+		Value: 23
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 3
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 3
+	Arg1
+		Type: 4
+		Value: 2
+	Arg2
+		Type: 4
+		Value: 3
+	Res
+		Type: 1
+		Value: 1
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 4
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 4
+		Value: 4
+	Res
+		Type: 1
+		Value: 1
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 4
+		Value: 5
+	Res
+		Type: 4
+		Value: 6
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 4
+		Value: 7
+	Res
+		Type: 4
+		Value: 8
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 4
+		Value: 9
+	Res
+		Type: 4
+		Value: 10
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 4
+	Res
+		Type: 1
+		Value: 25
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 25
+	Res
+		Type: 1
+		Value: 10
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 1
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 1
+	Arg2
+		Type: 5
+		Value: 4
+	Res
+		Type: 4
+		Value: 11
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 4
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 5
+		Value: 5
+	Res
+		Type: 1
+		Value: 1
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 10
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 10
+	Arg2
+		Type: 5
+		Value: 6
+	Res
+		Type: 1
+		Value: 4
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 10
+	Res
+		Type: 1
+		Value: 25
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 25
+	Res
+		Type: 1
+		Value: 11
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 25
+	Arg2
+		Type: 5
+		Value: 7
+	Res
+		Type: 1
+		Value: 1
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 1
+	Arg2
+		Type: 5
+		Value: 8
+	Res
+		Type: 1
+		Value: 4
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 5
+		Value: 9
+	Res
+		Type: 1
+		Value: 10
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 10
+	Res
+		Type: 1
+		Value: 2
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 2
+	Res
+		Type: 1
+		Value: 11
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 10
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 3
+	Arg1
+		Type: 4
+		Value: 12
+	Arg2
+		Type: 4
+		Value: 13
+	Res
+		Type: 1
+		Value: 1
+Opcode 1
+	Arg1
+		Type: 4
+		Value: 14
+	Arg2
+		Type: 1
+		Value: 1
+	Res
+		Type: 1
+		Value: 4
+Opcode 3
+	Arg1
+		Type: 4
+		Value: 15
+	Arg2
+		Type: 4
+		Value: 16
+	Res
+		Type: 1
+		Value: 10
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 11
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 11
+	Arg2
+		Type: 5
+		Value: 11
+	Res
+		Type: 4
+		Value: 17
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 11
+	Arg2
+		Type: 5
+		Value: 12
+	Res
+		Type: 1
+		Value: 4
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 11
+	Arg2
+		Type: 1
+		Value: 10
+	Res
+		Type: 4
+		Value: 18
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 11
+	Res
+		Type: 1
+		Value: 25
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 25
+	Res
+		Type: 1
+		Value: 23
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 13
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 1
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 1
+	Arg2
+		Type: 5
+		Value: 14
+	Res
+		Type: 4
+		Value: 19
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 4
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 5
+		Value: 15
+	Res
+		Type: 1
+		Value: 1
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 10
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 10
+	Arg2
+		Type: 5
+		Value: 16
+	Res
+		Type: 1
+		Value: 4
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 11
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 11
+	Arg2
+		Type: 4
+		Value: 20
+	Res
+		Type: 1
+		Value: 10
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 23
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 23
+	Arg2
+		Type: 4
+		Value: 21
+	Res
+		Type: 1
+		Value: 11
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 33
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 33
+	Arg2
+		Type: 4
+		Value: 22
+	Res
+		Type: 1
+		Value: 23
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 34
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 34
+	Arg2
+		Type: 4
+		Value: 23
+	Res
+		Type: 1
+		Value: 33
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 35
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 35
+	Arg2
+		Type: 4
+		Value: 24
+	Res
+		Type: 1
+		Value: 34
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 36
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 36
+	Arg2
+		Type: 4
+		Value: 25
+	Res
+		Type: 1
+		Value: 35
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 37
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 37
+	Arg2
+		Type: 4
+		Value: 26
+	Res
+		Type: 1
+		Value: 36
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 38
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 38
+	Arg2
+		Type: 4
+		Value: 27
+	Res
+		Type: 1
+		Value: 37
+Opcode 20
+	Arg1
+		Type: 1
+		Value: 39
+Opcode 22
+	Arg1
+		Type: 1
+		Value: 39
+	Arg2
+		Type: 4
+		Value: 28
+	Res
+		Type: 1
+		Value: 38
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 39
+	Res
+		Type: 1
+		Value: 25
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 25
+	Res
+		Type: 1
+		Value: 40
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 25
+	Arg2
+		Type: 4
+		Value: 29
+	Res
+		Type: 1
+		Value: 1
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 1
+	Arg2
+		Type: 4
+		Value: 30
+	Res
+		Type: 1
+		Value: 4
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 4
+		Value: 31
+	Res
+		Type: 1
+		Value: 10
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 10
+	Arg2
+		Type: 4
+		Value: 32
+	Res
+		Type: 1
+		Value: 11
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 11
+	Arg2
+		Type: 4
+		Value: 33
+	Res
+		Type: 1
+		Value: 23
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 23
+	Arg2
+		Type: 4
+		Value: 34
+	Res
+		Type: 1
+		Value: 33
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 33
+	Arg2
+		Type: 4
+		Value: 35
+	Res
+		Type: 1
+		Value: 34
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 34
+	Arg2
+		Type: 4
+		Value: 36
+	Res
+		Type: 1
+		Value: 35
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 35
+	Arg2
+		Type: 4
+		Value: 37
+	Res
+		Type: 1
+		Value: 36
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 36
+	Arg2
+		Type: 5
+		Value: 17
+	Res
+		Type: 1
+		Value: 37
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 37
+	Arg2
+		Type: 5
+		Value: 18
+	Res
+		Type: 1
+		Value: 38
+Opcode 21
+	Arg1
+		Type: 1
+		Value: 38
+	Arg2
+		Type: 5
+		Value: 19
+	Res
+		Type: 1
+		Value: 39
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 39
+	Res
+		Type: 1
+		Value: 41
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 41
+	Res
+		Type: 1
+		Value: 40
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 20
+Opcode 23
+	Arg1
+		Type: 1
+		Value: 41
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 1
+	Res
+		Type: 1
+		Value: 45
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 45
+	Res
+		Type: 1
+		Value: 1
+Opcode 16
+	Res
+		Type: 0
+		Value: 201
+Opcode 18
+	Res
+		Type: 8
+		Value: 10
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 0
+	Res
+		Type: 1
+		Value: 45
+Opcode 0
+	Arg1
+		Type: 1
+		Value: 45
+	Res
+		Type: 1
+		Value: 1
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 21
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 0
+	Res
+		Type: 10
+		Value: 0
+Opcode 16
+	Res
+		Type: 0
+		Value: 199
+Opcode 19
+	Res
+		Type: 8
+		Value: 10
+Opcode 16
+	Res
+		Type: 0
+		Value: 202
+Opcode 17
+	Arg1
+		Type: 8
+		Value: 10
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1
+Opcode 10
+	Arg1
+		Type: 6
+		Value: 0
+	Arg2
+		Type: 6
+		Value: 0
+	Res
+		Type: 0
+		Value: 207
+Opcode 10
+	Arg1
+		Type: 1
+		Value: 1
+	Arg2
+		Type: 6
+		Value: 0
+	Res
+		Type: 0
+		Value: 207
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 1
+	Res
+		Type: 1
+		Value: 4
+Opcode 16
+	Res
+		Type: 0
+		Value: 208
+Opcode 0
+	Arg1
+		Type: 6
+		Value: 0
+	Res
+		Type: 1
+		Value: 4
+Opcode 10
+	Arg1
+		Type: 1
+		Value: 4
+	Arg2
+		Type: 6
+		Value: 1
+	Res
+		Type: 0
+		Value: 210
+Opcode 16
+	Res
+		Type: 0
+		Value: 214
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 22
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 10
+Opcode 16
+	Res
+		Type: 0
+		Value: 219
+Opcode 10
+	Arg1
+		Type: 1
+		Value: 45
+	Arg2
+		Type: 6
+		Value: 1
+	Res
+		Type: 0
+		Value: 216
+Opcode 16
+	Res
+		Type: 0
+		Value: 219
+Opcode 23
+	Arg1
+		Type: 5
+		Value: 23
+Opcode 17
+	Arg1
+		Type: 9
+		Value: 0
+Opcode 0
+	Arg1
+		Type: 10
+		Value: 0
+	Res
+		Type: 1
+		Value: 1

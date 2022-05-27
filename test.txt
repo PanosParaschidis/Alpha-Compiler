@@ -1,0 +1,17 @@
+function panos(){
+	function magda(a){
+	if(a==1){
+return 1;
+}else{
+	return a+magda(a-1) ;
+}
+}
+	x=magda(5);
+	y=x+1;
+print("y",y,"x",x);
+	return y;		
+}
+
+
+
+print(panos());
